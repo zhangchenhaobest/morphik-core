@@ -1,3 +1,29 @@
+# morphik-core
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+Open-source multimodal retrieval engine (Morphik Core)
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+开源多模态检索引擎 Morphik Core。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 <p align="center">
   <img alt="Morphik Logo" src="assets/morphik_logo.png">
 </p>
